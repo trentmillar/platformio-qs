@@ -26,7 +26,7 @@
 
 language: python
 python:
-    - "2.7"
+    - "3.8"
 
 sudo: false
 cache:
@@ -34,7 +34,7 @@ cache:
         - "~/.platformio"
 
 install:
-    - pip install -U platformio
+    - pip3 install -U platformio
     - pio update
 
 script:
