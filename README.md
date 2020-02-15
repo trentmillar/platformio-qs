@@ -1,4 +1,5 @@
-# platformio quick start
+[![Build Status](https://travis-ci.org/trentmillar/platformio-qs.svg)](https://travis-ci.org/trentmillar/platformio-qs)
+# PlatformIO Quick Start 
 Simple quick start "blink" using PlatformIO on boards: `Uno`, `DOIT ESP32 DevKit v1`, `NodeMCU v1.0 (ESP-12E)` 
 
 ## Pre steps
