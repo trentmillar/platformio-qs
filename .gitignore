@@ -1,2 +1,5 @@
 # PlatformIO stuff
 /.pio
+
+# VSCode
+/.vscode
