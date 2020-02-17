@@ -7,7 +7,7 @@ Simple quick start "blink" using PlatformIO on boards: `Uno`, `DOIT ESP32 DevKit
 #### Did you install PlatformIO's CLI?
 
 ##### on mac,
-1. `pip install -Upip3 install -U https://github.com/platformio/platformio-core/archive/develop.zip`
+1. `pip install -U https://github.com/platformio/platformio-core/archive/develop.zip`
 2. `vi ~/.bashrc` (or .profile or zshrc...) and add `EXPORT = PATH="$PATH:~/.platformio/penv/bin"`
 3. close your terminal and reopen or `source ~/.bashrc` to reload the PATH
 4. (optional) activate the virtual environment, `. activate` which should now be in the PATH
