@@ -5,6 +5,8 @@
  * then off for one second, repeatedly.
  */
 #include <SPI.h>
+#include <SPIFFS.h>
+#include <Update.h>
 #include "Arduino.h"
 
 #ifndef LED_BUILTIN
