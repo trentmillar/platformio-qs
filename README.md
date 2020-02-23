@@ -58,5 +58,8 @@ In step 3 the three boards are boards I am planning on using in this project. To
    
 That is it, your board should be flashing. Note, in *main.cpp* your LED_BUILTIN pin may be 13 (Uno), verify your board's schematics for the pin usage.
 
+## Monitor Serial port
+`pio device monitor -b 115200`
+
 ## Notes
 This project doesn't need VSCode or the PlatformIO extension in VSCode. If you look closely at the commands executed, all that is needed is PlatformIO Core and the included CLI.
